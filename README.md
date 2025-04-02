@@ -65,20 +65,6 @@ I'm a passionate Full Stack Developer from Indore, Madhya Pradesh, India, specia
   <!-- Add more social links as needed -->
 </div>
 
-## 📌 Featured Projects
-
-### Project 1
-- **Description**: Brief description of your project
-- **Tech Stack**: React, Node.js, Express, MongoDB
-- **GitHub**: [Link to repository](#)
-- **Live Demo**: [Link to live demo](#)
-
-### Project 2
-- **Description**: Brief description of your project
-- **Tech Stack**: React, Node.js, Express, MongoDB
-- **GitHub**: [Link to repository](#)
-- **Live Demo**: [Link to live demo](#)
-
 ---
 
 <div align="center">
