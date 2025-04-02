@@ -1,5 +1,5 @@
 <html>
-👋 Hi there, I'm Sandhya Ginare
+<h1 align="center">Hello 👋, My name is Sandhya Ginare.</h1>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Web+Development+Enthusiast" alt="Typing SVG" /> </div>
 
 ## 💫 About Me
